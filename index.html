@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechKart India | Premium Electronics</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar container">
+            <div class="navbar__logo">Tech<span>Kart</span></div>
+            <div class="navbar__search">
+                <input type="text" id="searchInput" placeholder="Search for mobile, audio..." aria-label="Search products">
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <aside class="controls">
+            <div class="filter-group">
+                <label class="filter-group__label">Category</label>
+                <select id="categoryFilter" class="filter-group__select">
+                    <option value="all">All Products</option>
+                    <option value="Smartphones">Smartphones</option>
+                    <option value="Audio">Audio & Wireless</option>
+                    <option value="Wearables">Wearables</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label class="filter-group__label">Max Price: ₹<span id="priceLabel">50,000</span></label>
+                <input type="range" id="priceRange" min="500" max="50000" step="500" value="50000" class="filter-group__range">
+            </div>
+        </aside>
+
+        <div id="skeletonContainer" class="product-grid">
+            <div class="skeleton-card"></div>
+            <div class="skeleton-card"></div>
+            <div class="skeleton-card"></div>
+            <div class="skeleton-card"></div>
+        </div>
+
+        <section id="productGrid" class="product-grid hidden"></section>
+
+        <div id="emptyState" class="empty-state hidden">
+            <p>No products found matching your criteria.</p>
+            <button onclick="window.location.reload()">Reset Filters</button>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

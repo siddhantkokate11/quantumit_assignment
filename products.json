@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Nothing Phone (2a) 5G (White, 256 GB)",
+        "brand": "NOTHING",
+        "price": 27999,
+        "category": "Smartphones",
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1710400000000-000000000000?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 2,
+        "name": "boAt Airdopes 131 - Wireless Earbuds",
+        "brand": "BOAT",
+        "price": 1299,
+        "category": "Audio",
+        "rating": 4.1,
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 3,
+        "name": "Noise ColorFit Pulse 4 Smartwatch",
+        "brand": "NOISE",
+        "price": 2499,
+        "category": "Wearables",
+        "rating": 4.2,
+        "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 4,
+        "name": "Apple iPhone 15 (Blue, 128 GB)",
+        "brand": "APPLE",
+        "price": 71999,
+        "category": "Smartphones",
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 5,
+        "name": "OnePlus Nord CE 4 Lite 5G",
+        "brand": "ONEPLUS",
+        "price": 19999,
+        "category": "Smartphones",
+        "rating": 4.3,
+        "image": "https://images.unsplash.com/photo-1610945415295-d9baf060e871?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 6,
+        "name": "Sony WH-1000XM5 Noise Cancelling",
+        "brand": "SONY",
+        "price": 29990,
+        "category": "Audio",
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy Watch 6 LTE",
+        "brand": "SAMSUNG",
+        "price": 33999,
+        "category": "Wearables",
+        "rating": 4.5,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 8,
+        "name": "Redmi Note 13 Pro+ 5G",
+        "brand": "XIAOMI",
+        "price": 31999,
+        "category": "Smartphones",
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 9,
+        "name": "JBL Flip 6 Waterproof Speaker",
+        "brand": "JBL",
+        "price": 11999,
+        "category": "Audio",
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 10,
+        "name": "Fastrack Limitless FS1 Pro",
+        "brand": "FASTRACK",
+        "price": 3495,
+        "category": "Wearables",
+        "rating": 4.0,
+        "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 11,
+        "name": "Sennheiser HD 450SE Bluetooth",
+        "brand": "SENNHEISER",
+        "price": 8990,
+        "category": "Audio",
+        "rating": 4.3,
+        "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=500&auto=format&fit=crop"
+    },
+    {
+        "id": 12,
+        "name": "Google Pixel 8 (Hazel, 128 GB)",
+        "brand": "GOOGLE",
+        "price": 62999,
+        "category": "Smartphones",
+        "rating": 4.6,
+        "image": "https://images.unsplash.com/photo-1592890288564-76628a30a657?q=80&w=500&auto=format&fit=crop"
+    }
+]
